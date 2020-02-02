@@ -1,0 +1,900 @@
+[24-Jan-2020 10:34:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:34:43 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:34:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:34:43 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:34:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:34:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:34:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:34:43 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:34:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:34:43 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:34:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:34:43 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:34:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:34:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:34:48 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:34:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:34:48 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:34:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:34:48 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:34:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:34:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:34:48 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:34:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:34:48 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:34:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:34:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:34:53 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:34:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:34:53 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:34:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:34:53 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:34:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:34:53 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:34:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:34:53 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:34:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:34:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:34:58 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:34:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:34:58 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:34:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:34:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:34:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:34:58 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:34:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:34:58 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:34:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:34:58 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:12 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:12 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:12 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:12 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:12 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:12 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:12 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:12 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:12 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:12 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:12 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:35:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 02:35:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:35:17 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:17 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:17 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:17 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:17 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:17 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:17 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:17 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:17 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:17 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:17 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:35:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:35:22 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:22 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:22 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:22 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:22 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:22 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:22 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:22 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:22 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:22 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:22 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:27 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:27 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:27 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:27 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:35:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:35:27 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:27 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:27 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:27 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:27 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:27 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:27 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:35:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:35:32 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:32 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:32 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:32 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:32 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:32 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:32 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:32 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:32 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:32 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:32 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:37 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:37 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:35:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:35:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:37 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:37 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:37 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:42 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:42 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:42 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:42 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:42 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:35:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 02:35:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:35:47 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:47 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:47 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:47 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:47 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:47 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:47 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:47 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:47 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:47 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:47 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:35:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:35:52 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:52 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:52 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:52 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:52 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:52 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:52 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:52 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:52 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:52 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:52 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:35:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:35:57 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:57 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:57 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:35:57 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:57 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:35:57 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:57 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:35:57 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:57 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:35:57 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:35:57 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:36:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:36:02 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:02 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:02 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:02 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:02 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:02 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:02 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:02 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:02 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:02 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:02 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:07 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:07 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:07 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:07 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:07 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:07 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:07 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:07 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:07 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:07 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:07 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:36:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 02:36:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:36:12 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:12 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:12 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:12 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:12 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:12 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:12 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:12 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:12 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:12 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:12 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:17 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:17 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:17 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:17 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:36:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:36:17 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:17 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:17 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:17 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:17 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:17 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:17 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:22 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:22 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:22 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:22 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:22 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:22 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:22 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:36:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:36:22 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:22 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:22 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:22 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:36:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:36:27 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:27 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:27 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:27 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:27 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:27 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:27 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:27 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:27 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:27 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:27 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:36:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:36:32 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:32 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:32 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:32 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:32 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:32 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:32 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:32 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:32 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:32 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:32 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:36:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:36:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:37 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:37 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:37 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:37 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:37 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:36:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:36:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:42 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:42 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:42 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:42 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:42 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:36:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:36:47 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:47 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:47 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:47 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:47 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:47 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:47 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:47 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:47 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:47 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:47 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:53 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:53 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:36:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:36:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:53 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:53 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:53 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:36:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:36:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:58 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:36:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:58 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:36:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:58 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:36:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:58 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:36:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:36:58 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:37:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:37:03 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:03 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:03 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:03 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:03 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:03 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:03 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:03 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:03 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:03 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:03 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:08 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:08 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:37:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:37:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:08 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:08 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:08 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:13 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:13 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:13 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:37:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:37:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:13 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:13 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:18 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:18 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:18 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:18 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:37:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:37:18 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:18 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:18 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:18 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:18 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:18 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:18 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:37:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:37:23 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:23 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:23 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:23 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:23 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:23 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:23 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:23 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:23 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:23 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:23 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:28 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:28 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:28 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:28 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:28 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:28 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:28 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:28 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:28 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:28 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:28 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:37:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 02:37:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:37:33 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:33 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:33 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:33 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:33 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:33 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:33 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:33 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:33 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:33 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:33 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:37:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:37:38 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:38 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:38 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:38 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:38 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:38 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:38 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:38 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:38 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:38 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:38 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:43 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:43 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:43 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:43 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:43 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:37:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:37:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:48 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:48 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:48 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:48 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:48 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:37:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:37:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:53 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:53 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:53 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:53 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:53 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:37:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 02:37:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:37:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:58 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:37:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:58 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:37:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:58 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:37:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:58 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:37:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:37:58 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:03 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:03 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:03 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:03 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:38:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:38:03 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:03 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:03 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:03 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:03 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:03 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:03 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:08 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:08 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:08 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:38:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:38:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:08 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:08 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:13 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:13 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:13 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:13 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:13 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:38:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:38:18 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:18 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:18 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:18 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:18 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:18 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:18 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:18 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:18 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:18 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:18 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:38:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:38:23 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:23 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:23 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:23 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:23 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:23 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:23 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:38:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:38:23 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:23 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:23 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:23 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:28 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:28 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:28 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:28 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:28 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:28 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:28 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:38:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:38:28 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:28 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:28 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:28 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:33 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:33 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:33 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:33 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:33 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:33 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:33 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:38:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:38:33 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:33 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:33 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:33 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:38 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:38 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:38 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:38 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:38 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:38 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:38 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:38:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:38:38 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:38 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:38 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:38 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:43 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:43 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:38:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:38:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:43 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:43 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:43 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:43 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:38:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:38:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:48 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:48 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:48 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:48 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:48 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:48 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:38:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:38:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:53 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:53 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:53 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:53 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:53 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:53 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:58 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:38:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:58 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:38:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:58 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:38:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:58 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:38:58 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:38:58 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:38:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:39:06 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:39:06 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:39:06 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:39:06 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:39:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:39:06 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:39:06 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:39:06 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:39:06 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:39:06 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:39:06 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:39:06 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:40:39 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:39 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:39 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:39 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:40:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:40:39 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:39 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:39 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:39 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:39 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:39 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:40:39 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:40:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:40:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:40:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:40:40 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:40:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:40:41 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:40:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 02:40:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:40:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:42 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:42 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:42 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:42 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:42 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:40:42 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:40:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:40:49 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:49 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:49 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:49 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:49 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:49 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:49 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:49 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:49 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:49 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:40:49 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:40:57 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:57 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:40:57 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:40:57 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:40:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:40:57 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:57 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:57 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:40:57 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:57 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:40:57 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:40:57 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:41:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:41:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:41:08 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:41:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:41:08 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:41:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:08 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:41:08 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:41:08 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:41:08 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:41:14 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:41:14 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:41:14 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:41:14 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:41:14 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:14 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:14 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:14 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:41:14 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:41:14 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:41:14 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:41:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:41:25 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:25 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:25 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:25 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:41:25 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:41:25 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:41:25 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:41:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:41:25 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:41:25 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:41:25 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:41:25 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:41:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:41:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:41:37 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:41:39 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:41:39 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:41:39 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:41:39 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:41:39 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:39 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:39 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:41:39 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:41:39 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:41:39 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:41:39 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:41:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:42:04 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:42:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:42:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:42:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:05 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:06 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:06 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:06 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:06 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:06 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:06 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:42:06 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:42:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 02:42:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:42:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:13 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:13 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:13 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:13 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:13 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:42:13 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:42:25 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:25 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:25 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:25 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:42:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:42:25 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:25 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:25 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:25 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:25 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:25 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:42:25 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:42:33 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:33 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:33 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:33 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:42:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:42:34 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:34 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:34 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:34 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:34 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:34 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:42:34 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:42:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:40 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:40 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:40 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 02:42:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:42:41 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:41 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:41 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:41 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:41 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:41 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:42:41 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 02:42:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveAttendance.php on line 8
+[24-Jan-2020 10:42:51 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:51 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 30
+[24-Jan-2020 10:42:51 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:51 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveOdometer.php on line 31
+[24-Jan-2020 10:42:52 asia/kuala_lumpur] PHP Notice:  Undefined variable: database in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:52 asia/kuala_lumpur] PHP Notice:  Undefined variable: iBerkat in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:52 asia/kuala_lumpur] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 29
+[24-Jan-2020 10:42:52 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:52 asia/kuala_lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 31
+[24-Jan-2020 10:42:52 asia/kuala_lumpur] PHP Notice:  Undefined variable: Recordset3 in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
+[24-Jan-2020 10:42:52 asia/kuala_lumpur] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iberkatm/public_html/iBerkat/supervisorAFM/liveParcel.php on line 32
