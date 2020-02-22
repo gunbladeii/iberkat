@@ -1,4 +1,4 @@
-<?php require('../Connection/iBerkat.php'); ?>
+<?php require('conn.php'); ?>
 <?php
 session_start();
 if ($_SESSION['role'] != 'ss')
