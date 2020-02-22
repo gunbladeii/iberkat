@@ -19,8 +19,8 @@ $row_Recordset = mysqli_fetch_assoc($Recordset);
 $totalRows_Recordset = mysqli_num_rows($Recordset);
 
 $joiner = $mysqli->query("SELECT employeeData.noIC, employeeData.nama, employeeData.emel, stationName.name AS stationName, stationName.stationCode FROM employeeData INNER JOIN stationName ON employeeData.stationCode = stationName.stationCode WHERE emel ='$colname_Recordset'");
-$row_joiner = mysql_fetch_assoc($joiner);
-$totalRows_joiner = mysql_num_rows($joiner);
+$row_joiner = mysqli_fetch_assoc($joiner);
+$totalRows_joiner = mysqli_num_rows($joiner);
 
 $station=$row_joiner['stationCode'];
 date_default_timezone_set("asia/kuala_lumpur"); 
@@ -28,8 +28,8 @@ $date = date('Y-m-d');
 $time = date('H:i:s');
 
 $Recordset3 = $mysqli->query("SELECT name FROM stationName WHERE stationCode = '$station' ");
-$row_Recordset3 = mysql_fetch_assoc($Recordset3);
-$totalRows_Recordset3 = mysql_num_rows($Recordset3);
+$row_Recordset3 = mysqli_fetch_assoc($Recordset3);
+$totalRows_Recordset3 = mysqli_num_rows($Recordset3);
 ?>
 <!DOCTYPE html>
 <html>
