@@ -322,7 +322,7 @@ $a=1;
               <span class="info-box-icon bg-warning elevation-1"><i class="fas fa-motorcycle"></i></span>
 
               <div class="info-box-content">
-                <span class="info-box-text">Delivery Record</span>
+                <span class="info-box-text">Delivery Records</span>
                 <div id="show"></div>
               </div>
               <!-- /.info-box-content -->
