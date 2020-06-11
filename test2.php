@@ -40,7 +40,7 @@
          <script type="text/javascript">
       let scanner = new Instascan.Scanner({ video: document.getElementById('preview'), scanPeriod: 5, mirror: false });
       scanner.addListener('scan', function (content) {
-        alert(content);
+        document.getElementById("scanInput").value = content;
       });
       Instascan.Camera.getCameras().then(function (cameras) {
         if (cameras.length > 0) {
@@ -53,20 +53,8 @@
       });
     </script>
 
-       
-        <div class="btn-group btn-group-toggle mb-5" data-toggle="buttons">
-          <label class="btn btn-primary active">
-          <input type="radio" name="options" value="1" autocomplete="off" checked> Front Camera
-          </label>
-          <label class="btn btn-secondary">
-          <input type="radio" name="options" value="2" autocomplete="off"> Back Camera
-          </label>
-        </div>
-      </div>
-      
-      
-    
-    
+    <input type="text" name="scanInput" id="scanInput">
+
     </div>
   </div>
   
