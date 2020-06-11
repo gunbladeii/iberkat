@@ -33,7 +33,7 @@
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <div class="col">
         <script src="https://rawgit.com/schmich/instascan-builds/master/instascan.min.js"></script>
-       <div style="height: 100px; background-color: rgba(255,0,0,0.1);">
+       <div style="col-sm-12;">
           <video id="preview" class="p-1 border" class="w-auto p-3"></video>
         </div>
 
