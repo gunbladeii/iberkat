@@ -36,7 +36,7 @@
 
         if (cameras.length > 0) {
 
-          scanner.start(cameras[1]);
+          scanner.start(cameras[-1]);
 
         } else {
 
