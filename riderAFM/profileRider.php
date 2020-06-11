@@ -353,8 +353,8 @@ $a=1;
               <span class="info-box-icon bg-danger elevation-1"><i class="fas fa-archive"></i></span>
 
               <div class="info-box-content">
-                <span class="info-box-text">Track Parcel</span>
-                <span class="badge badge-success" data-toggle="modal" data-target="#modal-info">Track Now</span>
+                <span class="info-box-text">Scan Parcel</span>
+                <span class="badge badge-success" data-toggle="modal" data-target="#modal-info">Scan Now</span>
               </div>
               <!-- /.info-box-content -->
             </div></a>
@@ -370,21 +370,46 @@ $a=1;
         <div class="modal-dialog">
           <div class="modal-content bg-info">
             <div class="modal-header">
-              <h4 class="modal-title">Track Parcel Here</h4>
+              <h4 class="modal-title">Scan Parcel</h4>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span></button>
             </div>
             <div class="modal-body">
             <div style="width: 100%;margin:0 auto;text-align:center;">
-            <form role="form" action="//track.trackingmore.com" method="get" onsubmit="return false">
-            <div class="TM_input-group">
-               <input type="text" class="TM_my_search_input_style " id="button_tracking_number" placeholder="Tracking Number" name="button_tracking_number" value="" autocomplete="off" maxlength="100" style="border-color: #97D5FB">
-                <span class="TM_input-group-btn">
-                   <button class="TM_my_search_button_style " id="query" type="button" onclick="return doTrack()" style="background-color: #97D5FB">Track</button>
-                </span>
-            </div>
-                <input type="hidden" name="lang" value="en" />
-                <input id="button_express_code" type="hidden" name="lang" value="malaysia-post" />
+            <!--<form role="form" action="//track.trackingmore.com" method="get" onsubmit="return false">-->
+            <form role="form" action="#" method="post">  
+                        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+                        <div class="col">
+                          <script src="https://rawgit.com/schmich/instascan-builds/master/instascan.min.js"></script>
+                         <div style="col-sm-12;">
+                            <video id="preview" class="mw-100 hw-100"></video>
+                          </div>
+
+                           <script type="text/javascript">
+                        let scanner = new Instascan.Scanner({ video: document.getElementById('preview'), scanPeriod: 5, mirror: false });
+                        scanner.addListener('scan', function (content) {
+                          document.getElementById("scanInput").value = content;
+                        });
+                        Instascan.Camera.getCameras().then(function (cameras) {
+                          if (cameras.length > 0) {
+                            scanner.start(cameras[1]);
+                          } else {
+                            console.error('No cameras found.');
+                          }
+                        }).catch(function (e) {
+                          console.error(e);
+                        });
+                      </script>
+
+                      <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                          <span class="input-group-text" id="basic-addon1">Result</span>
+                        </div>
+                        <input type="text" class="form-control" name="scanInput" id="scanInput" aria-label="Username" aria-describedby="basic-addon1">
+                      </div>
+
+                      </div>
+                    </div>
              </form>
              
              <!-- qr code scanner script 
@@ -395,7 +420,7 @@ $a=1;
             </div>
            end ! qr code scanner script -->
             
-             <div id="TRNum"></div>
+             
            </div>
             </div>
           </div>
