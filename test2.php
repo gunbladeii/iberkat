@@ -34,7 +34,7 @@
       <div class="col">
         <script src="https://rawgit.com/schmich/instascan-builds/master/instascan.min.js"></script>
        <div style="col-sm-12;">
-          <video id="preview" class="p-1 border" class="w-auto p-3"></video>
+          <video id="preview" class="p-1 border w-auto"></video>
         </div>
 
          <script type="text/javascript">
