@@ -67,13 +67,6 @@ $a=1;
   crossorigin="anonymous"></script>
 <script>
   $(function () {
-    $('#example3').DataTable({
-      "paging": true,
-      "lengthChange": false,
-      "searching": false,
-      "ordering": true,
-      "info": true,
-      "autoWidth": false,
-    });
+    $('#example3').DataTable
   });
 </script>
