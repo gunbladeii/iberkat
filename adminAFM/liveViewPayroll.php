@@ -19,9 +19,9 @@ $row_station = mysqli_fetch_assoc($station);
 $totalRows_station = mysqli_num_rows($station);
 $a=1;
 ?>
-
+<div class="table-responsive">
 <?php if($row_Recordset2['stationCode'] > 0) {?>
-              <table id="example2" class="table table-hover table-responsive">
+              <table id="example3" class="table table-hover">
                 <thead>
                 <tr>
                   <th>No.</th>
@@ -56,3 +56,16 @@ $a=1;
                 </tfoot>
               </table>
 <?php }?>
+</div>
+<script>
+  $(function () {
+    $('#example3').DataTable({
+      "paging": true,
+      "lengthChange": false,
+      "searching": false,
+      "ordering": true,
+      "info": true,
+      "autoWidth": false,
+    });
+  });
+</script>
