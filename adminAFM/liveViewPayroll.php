@@ -21,7 +21,7 @@ $a=1;
 ?>
 
 <?php if($row_Recordset2['stationCode'] > 0) {?>
-              <table id="example2" class="table table-hover table-responsive-xl">
+              <table id="example2" class="table table-hover table-responsive">
                 <thead>
                 <tr>
                   <th>No.</th>
