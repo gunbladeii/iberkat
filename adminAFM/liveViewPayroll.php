@@ -19,7 +19,7 @@ $row_station = mysqli_fetch_assoc($station);
 $totalRows_station = mysqli_num_rows($station);
 $a=1;
 ?>
-<div class="table-responsive">
+<div class="box-body table-responsive no-padding">
 <?php if($row_Recordset2['stationCode'] > 0) {?>
               <table id="example3" class="table table-hover">
                 <thead>
