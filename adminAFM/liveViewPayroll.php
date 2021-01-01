@@ -67,6 +67,6 @@ $a=1;
   crossorigin="anonymous"></script>
 <script>
   $(function () {
-    $('#example3').DataTable
+    $('#example3').DataTable();
   });
 </script>
