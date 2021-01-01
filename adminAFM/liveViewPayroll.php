@@ -10,7 +10,7 @@ if (isset($_SESSION['user'])) {
   $colname_Recordset2 = $_SESSION['user'];
 }
 
-$Recordset2 = $mysqli->query("SELECT attendance.nama, attendance.year, attendance.noIC, attendance.date AS date, attendance.stationCode, stationName.name AS stationName, COUNT(attendance.date) AS totalDay , attendance.month FROM attendance INNER JOIN stationName ON attendance.stationCode = stationName.stationCode WHERE attendance.timeOut IS NOT NULL GROUP BY attendance.noIC, attendance.month, attendance.year ORDER BY attendance.year,attendance.month ASC");
+$Recordset2 = $mysqli->query("SELECT attendance.nama, attendance.year, attendance.noIC, attendance.date AS date, attendance.stationCode, stationName.name AS stationName, COUNT(attendance.date) AS totalDay , attendance.month FROM attendance INNER JOIN stationName ON attendance.stationCode = stationName.stationCode WHERE attendance.timeOut IS NOT NULL GROUP BY attendance.noIC, attendance.month, attendance.year ORDER BY attendance.year,attendance.month DESC");
 $row_Recordset2 = mysqli_fetch_assoc($Recordset2);
 $totalRows_Recordset2 = mysqli_num_rows($Recordset2);
 
