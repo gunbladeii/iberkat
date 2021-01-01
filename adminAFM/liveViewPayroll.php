@@ -33,19 +33,21 @@ $a=1;
                 </tr>
                 </thead>
                 <tbody>
-                <?php do {?>    
-                <tr>
-                <td><?php echo $a++;?></td>	
-	            <td> <span data-toggle="modal" data-target="#viewRiderModal" data-whatever="<?php echo $row_Recordset2['noIC'];?>" data-whatever2="<?php echo $row_Recordset2['month'];?>" class="badge badge-primary" role="button" aria-pressed="true"><?php echo ucwords($row_Recordset2['nama']);?></span></td>	
-	            <td><?php echo $row_Recordset2['stationName'];?></td>
-	            <td><span class="badge badge-info"><?php $date=date_create($row_Recordset2['date']);echo date_format($date,"F");?></span></td>
-               <td><?php echo $row_Recordset2['year'];?></td>
-                <td class="d-sm-inline-flex"><span class="badge badge-warning"><?php echo $row_Recordset2['totalDay'];?></span></td>	
-	            </tr>
-                <?php } while ($row_Recordset2 = mysqli_fetch_assoc($Recordset2));?>
-                </tbody>
-                <tfoot>
-                <tr>
+
+                  <?php do {?>    
+                  <tr>
+                  <td><?php echo $a++;?></td>	
+    	            <td> <span data-toggle="modal" data-target="#viewRiderModal" data-whatever="<?php echo $row_Recordset2['noIC'];?>" data-whatever2="<?php echo $row_Recordset2['month'];?>" class="badge badge-primary" role="button" aria-pressed="true"><?php echo ucwords($row_Recordset2['nama']);?></span></td>	
+    	            <td><?php echo $row_Recordset2['stationName'];?></td>
+    	            <td><span class="badge badge-info"><?php $date=date_create($row_Recordset2['date']);echo date_format($date,"F");?></span></td>
+                   <td><?php echo $row_Recordset2['year'];?></td>
+                    <td class="d-sm-inline-flex"><span class="badge badge-warning"><?php echo $row_Recordset2['totalDay'];?></span></td>	
+    	            </tr>
+                  <?php } while ($row_Recordset2 = mysqli_fetch_assoc($Recordset2));?>
+
+                  </tbody>
+                  <tfoot>
+                  <tr>
                   <th>No.</th>
                   <th>Full Name</th>
                   <th>Station</th>
@@ -57,6 +59,12 @@ $a=1;
               </table>
 <?php }?>
 </div>
+<script src="plugins/datatables/jquery.dataTables.js"></script>
+<script src="plugins/datatables/dataTables.bootstrap4.js"></script>
+<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
 <script>
   $(function () {
     $('#example3').DataTable({
