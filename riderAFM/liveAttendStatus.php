@@ -18,7 +18,7 @@ $station=$row_Recordset['stationCode'];
 date_default_timezone_set("asia/kuala_lumpur"); 
 $date = date('Y-m-d');
 $month = date('m');
-$month = date('Y');
+$year = date('Y');
 $time = date('H:i:s');
 $noIC = $row_Recordset['noIC'];
 
