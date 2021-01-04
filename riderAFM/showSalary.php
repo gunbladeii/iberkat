@@ -3,6 +3,7 @@
     require('conn.php');
     $noIC = $_GET['noIC'];
     $month = $_GET['month'];
+    $year = $_GET['year'];
     date_default_timezone_set("asia/kuala_lumpur"); 
     $date = date('Y-m-d');
     
