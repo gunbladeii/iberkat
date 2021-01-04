@@ -18,10 +18,11 @@ $station=$row_Recordset['stationCode'];
 date_default_timezone_set("asia/kuala_lumpur"); 
 $date = date('Y-m-d');
 $month = date('m');
+$month = date('Y');
 $time = date('H:i:s');
 $noIC = $row_Recordset['noIC'];
 
-$attendance = $mysqli->query("SELECT COUNT(date) AS attendNo FROM attendance WHERE month = '$month' AND noIC = '$noIC' AND timeout IS NOT NULL");
+$attendance = $mysqli->query("SELECT COUNT(date) AS attendNo FROM attendance WHERE month = '$month' AND year = '$year' AND noIC = '$noIC' AND timeout IS NOT NULL");
 $row_attendance = mysqli_fetch_assoc($attendance);
 $totalRows_attendance = mysqli_num_rows($attendance);
 ?>
