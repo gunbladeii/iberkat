@@ -13,6 +13,7 @@ date_default_timezone_set("asia/kuala_lumpur");
 $date = date('Y-m-d'); 
 $time = date('H:i:s');
 $month = date('m');
+$year = date('Y');
 
 $colname_Recordset = "-1";
 if (isset($_SESSION['user'])) {
