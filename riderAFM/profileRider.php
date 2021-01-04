@@ -335,7 +335,7 @@ $a=1;
           <div class="clearfix hidden-md-up"></div>
 
           <div class="col-12 col-sm-6 col-md-3">
-            <a data-toggle="modal" data-target="#salaryModal" data-whatever="<?php echo $row_Recordset['noIC'];?>" data-whatever2="<?php echo $month;?>" style="color:black;"><div class="info-box mb-3">
+            <a data-toggle="modal" data-target="#salaryModal" data-whatever="<?php echo $row_Recordset['noIC'];?>" data-whatever2="<?php echo $month;?>" data-whatever2="<?php echo $year;?>" style="color:black;"><div class="info-box mb-3">
               <span class="info-box-icon bg-success elevation-1"><i class="fas fa-calendar-alt"></i></span>
 
               <div class="info-box-content">
@@ -650,8 +650,9 @@ $a=1;
           var button = $(event.relatedTarget) // Button that triggered the modal
           var recipient = button.data('whatever') // Extract info from data-* attributes
           var recipient2 = button.data('whatever2') // Extract info from data-* attributes
+          var recipient3 = button.data('whatever3') // Extract info from data-* attributes
           var modal = $(this);
-          var dataString = 'noIC=' + recipient + '&' + 'month=' + recipient2;
+          var dataString = 'noIC=' + recipient + '&' + 'month=' + recipient2 + '&' + 'year=' + recipient3;
 
             $.ajax({
                 type: "GET",

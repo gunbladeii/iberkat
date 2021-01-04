@@ -12,7 +12,7 @@
     $bankCall = $mysqli->query("SELECT employeeData.riderFacePic, employeeData.employeeStatus, employeeData.noIC, employeeData.nama, employeeData.accNum, employeeData.codeBank, bankName.bankName FROM `employeeData` INNER JOIN `bankName` ON bankName.codeBank = employeeData.codeBank WHERE `noIC` = '$noIC'");
     $BC = mysqli_fetch_assoc($bankCall);
     
-    $attendanceCall = $mysqli->query("SELECT date, COUNT(date) AS attendNo, month, noIC, time, timeOut FROM `attendance` WHERE `noIC` = '$noIC' AND `month` = '$month' GROUP BY `month`");
+    $attendanceCall = $mysqli->query("SELECT date, COUNT(date) AS attendNo, month, noIC, time, timeOut FROM `attendance` WHERE `noIC` = '$noIC' AND `month` = '$month' AND `year` = '$year' GROUP BY `year`,`month`");
     $AC = mysqli_fetch_assoc($attendanceCall);
     
     $timeCall = $mysqli->query("SELECT * FROM `attendance` WHERE `noIC` = '$noIC' AND `month` = '$month'");
