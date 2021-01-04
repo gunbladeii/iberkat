@@ -15,13 +15,13 @@
     $attendanceCall = $mysqli->query("SELECT date, COUNT(date) AS attendNo, month, noIC, time, timeOut FROM `attendance` WHERE `noIC` = '$noIC' AND `month` = '$month' AND `year` = '$year' GROUP BY `year`,`month`");
     $AC = mysqli_fetch_assoc($attendanceCall);
     
-    $timeCall = $mysqli->query("SELECT * FROM `attendance` WHERE `noIC` = '$noIC' AND `month` = '$month'");
+    $timeCall = $mysqli->query("SELECT * FROM `attendance` WHERE `noIC` = '$noIC' AND `month` = '$month' AND `year` = '$year'");
     $TC = mysqli_fetch_assoc($timeCall);
     
-    $parcelCall = $mysqli->query("SELECT *, SUM(status) AS totalCommission FROM `infoParcel` WHERE `noIC` = '$noIC' AND `month` = '$month' GROUP BY `month`");
+    $parcelCall = $mysqli->query("SELECT *, SUM(status) AS totalCommission FROM `infoParcel` WHERE `noIC` = '$noIC' AND `month` = '$month' AND `year` = '$year' GROUP BY `year`,`month`");
     $PC = mysqli_fetch_assoc($parcelCall);
     
-    $parcelOil = $mysqli->query("SELECT *, SUM(oil) AS oilT FROM `infoParcel` WHERE `noIC` = '$noIC' AND `month` = '$month' GROUP BY `month`");
+    $parcelOil = $mysqli->query("SELECT *, SUM(oil) AS oilT FROM `infoParcel` WHERE `noIC` = '$noIC' AND `month` = '$month' AND `year` = '$year' GROUP BY `year`,`month`");
     $PCO = mysqli_fetch_assoc($parcelOil);
     
     /*kira basic salary*/
